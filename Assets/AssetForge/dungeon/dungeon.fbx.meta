@@ -38,6 +38,27 @@ ModelImporter:
     100064: wall_straight_21
     100066: wall_windowRound_16
     100068: wall_windowRound_20
+    100070: debris_bricks_42
+    100072: debris_wood_38
+    100074: detail_bannerPoints%_40
+    100076: detail_bannerPoints%_41
+    100078: structure_column_34
+    100080: structure_column_35
+    100082: structure_column_36
+    100084: structure_column_37
+    100086: structure_column_49
+    100088: structure_column_50
+    100090: structure_column_51
+    100092: structure_column_52
+    100094: structure_column_53
+    100096: structure_column_54
+    100098: structure_column_55
+    100100: structure_column_56
+    100102: wall_borderBricks_43
+    100104: wall_borderBricks_45
+    100106: wall_borderBricks_46
+    100108: wall_borderBricks_47
+    100110: wall_borderBricks_48
     400000: block_default_13
     400002: block_default_14
     400004: block_default_15
@@ -73,10 +94,35 @@ ModelImporter:
     400064: wall_straight_21
     400066: wall_windowRound_16
     400068: wall_windowRound_20
+    400070: debris_bricks_42
+    400072: debris_wood_38
+    400074: detail_bannerPoints%_40
+    400076: detail_bannerPoints%_41
+    400078: structure_column_34
+    400080: structure_column_35
+    400082: structure_column_36
+    400084: structure_column_37
+    400086: structure_column_49
+    400088: structure_column_50
+    400090: structure_column_51
+    400092: structure_column_52
+    400094: structure_column_53
+    400096: structure_column_54
+    400098: structure_column_55
+    400100: structure_column_56
+    400102: wall_borderBricks_43
+    400104: wall_borderBricks_45
+    400106: wall_borderBricks_46
+    400108: wall_borderBricks_47
+    400110: wall_borderBricks_48
     2100000: wood
     2100002: _defaultMat
     2100004: stone
     2100006: lightStone
+    2100008: customMaterial5
+    2100010: customMaterial6
+    2100012: customMaterial7
+    2100014: roof
     2300000: block_default_13
     2300002: block_default_14
     2300004: block_default_15
@@ -111,6 +157,27 @@ ModelImporter:
     2300062: wall_straight_21
     2300064: wall_windowRound_16
     2300066: wall_windowRound_20
+    2300068: debris_bricks_42
+    2300070: debris_wood_38
+    2300072: detail_bannerPoints%_40
+    2300074: detail_bannerPoints%_41
+    2300076: structure_column_34
+    2300078: structure_column_35
+    2300080: structure_column_36
+    2300082: structure_column_37
+    2300084: structure_column_49
+    2300086: structure_column_50
+    2300088: structure_column_51
+    2300090: structure_column_52
+    2300092: structure_column_53
+    2300094: structure_column_54
+    2300096: structure_column_55
+    2300098: structure_column_56
+    2300100: wall_borderBricks_43
+    2300102: wall_borderBricks_45
+    2300104: wall_borderBricks_46
+    2300106: wall_borderBricks_47
+    2300108: wall_borderBricks_48
     3300000: block_default_13
     3300002: block_default_14
     3300004: block_default_15
@@ -145,6 +212,27 @@ ModelImporter:
     3300062: wall_straight_21
     3300064: wall_windowRound_16
     3300066: wall_windowRound_20
+    3300068: debris_bricks_42
+    3300070: debris_wood_38
+    3300072: detail_bannerPoints%_40
+    3300074: detail_bannerPoints%_41
+    3300076: structure_column_34
+    3300078: structure_column_35
+    3300080: structure_column_36
+    3300082: structure_column_37
+    3300084: structure_column_49
+    3300086: structure_column_50
+    3300088: structure_column_51
+    3300090: structure_column_52
+    3300092: structure_column_53
+    3300094: structure_column_54
+    3300096: structure_column_55
+    3300098: structure_column_56
+    3300100: wall_borderBricks_43
+    3300102: wall_borderBricks_45
+    3300104: wall_borderBricks_46
+    3300106: wall_borderBricks_47
+    3300108: wall_borderBricks_48
     4300000: block_default_6
     4300002: wall_corner_7
     4300004: wall_straight_8
@@ -179,6 +267,27 @@ ModelImporter:
     4300062: wall_windowRound_20
     4300064: wall_straight_21
     4300066: wall_corner_22
+    4300068: structure_column_34
+    4300070: structure_column_35
+    4300072: structure_column_36
+    4300074: structure_column_37
+    4300076: debris_wood_38
+    4300078: detail_bannerPoints%_40
+    4300080: detail_bannerPoints%_41
+    4300082: debris_bricks_42
+    4300084: wall_borderBricks_43
+    4300086: wall_borderBricks_45
+    4300088: wall_borderBricks_46
+    4300090: wall_borderBricks_47
+    4300092: wall_borderBricks_48
+    4300094: structure_column_49
+    4300096: structure_column_50
+    4300098: structure_column_51
+    4300100: structure_column_52
+    4300102: structure_column_53
+    4300104: structure_column_54
+    4300106: structure_column_55
+    4300108: structure_column_56
   externalObjects: {}
   materials:
     importMaterials: 1
