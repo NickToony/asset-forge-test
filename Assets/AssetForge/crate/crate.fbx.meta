@@ -5,12 +5,58 @@ ModelImporter:
   fileIDToRecycleName:
     100000: block_default_27
     100002: //RootNode
+    100004: block_default_30
+    100006: planks_floor_23
+    100008: planks_floor_25
+    100010: planks_floor_26
+    100012: planks_floor_27
+    100014: planks_floor_28
+    100016: planks_floor_31
+    100018: planks_floor_32
+    100020: planks_floor_33
     400000: block_default_27
     400002: //RootNode
+    400004: block_default_30
+    400006: planks_floor_23
+    400008: planks_floor_25
+    400010: planks_floor_26
+    400012: planks_floor_27
+    400014: planks_floor_28
+    400016: planks_floor_31
+    400018: planks_floor_32
+    400020: planks_floor_33
     2100000: _defaultMat
+    2100002: wood
     2300000: block_default_27
+    2300002: block_default_30
+    2300004: planks_floor_23
+    2300006: planks_floor_25
+    2300008: planks_floor_26
+    2300010: planks_floor_27
+    2300012: planks_floor_28
+    2300014: planks_floor_31
+    2300016: planks_floor_32
+    2300018: planks_floor_33
     3300000: block_default_27
+    3300002: block_default_30
+    3300004: planks_floor_23
+    3300006: planks_floor_25
+    3300008: planks_floor_26
+    3300010: planks_floor_27
+    3300012: planks_floor_28
+    3300014: planks_floor_31
+    3300016: planks_floor_32
+    3300018: planks_floor_33
     4300000: block_default_27
+    4300002: planks_floor_23
+    4300004: planks_floor_25
+    4300006: planks_floor_26
+    4300008: planks_floor_27
+    4300010: planks_floor_28
+    4300012: block_default_30
+    4300014: planks_floor_31
+    4300016: planks_floor_32
+    4300018: planks_floor_33
   externalObjects: {}
   materials:
     importMaterials: 1

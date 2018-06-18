@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: f04c1ccf00c2b4994b1b4cf230326201
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: block_default_13
+    100002: block_default_14
+    100004: block_default_15
+    100006: block_default_21
+    100008: block_default_26
+    100010: block_default_6
+    100012: //RootNode
+    100014: wall_corner_10
+    100016: wall_corner_12
+    100018: wall_corner_7
+    100020: wall_corner_9
+    100022: wall_straight_11
+    100024: wall_straight_24
+    100026: wall_straight_25
+    100028: wall_straight_8
+    100030: door_round_11
+    100032: wall_doorwayRound_1
+    100034: wall_straight_10
+    100036: wall_straight_2
+    100038: wall_straight_3
+    100040: wall_straight_8 1
+    100042: wall_straight_9
+    100044: wall_windowRound_5
+    100046: wall_windowRound_6
+    100048: door_round_13
+    100050: wall_corner_12 1
+    100052: wall_corner_22
+    100054: wall_doorwayRound_19
+    100056: wall_straight_14
+    100058: wall_straight_15
+    100060: wall_straight_17
+    100062: wall_straight_18
+    100064: wall_straight_21
+    100066: wall_windowRound_16
+    100068: wall_windowRound_20
+    400000: block_default_13
+    400002: block_default_14
+    400004: block_default_15
+    400006: block_default_21
+    400008: block_default_26
+    400010: block_default_6
+    400012: //RootNode
+    400014: wall_corner_10
+    400016: wall_corner_12
+    400018: wall_corner_7
+    400020: wall_corner_9
+    400022: wall_straight_11
+    400024: wall_straight_24
+    400026: wall_straight_25
+    400028: wall_straight_8
+    400030: door_round_11
+    400032: wall_doorwayRound_1
+    400034: wall_straight_10
+    400036: wall_straight_2
+    400038: wall_straight_3
+    400040: wall_straight_8 1
+    400042: wall_straight_9
+    400044: wall_windowRound_5
+    400046: wall_windowRound_6
+    400048: door_round_13
+    400050: wall_corner_12 1
+    400052: wall_corner_22
+    400054: wall_doorwayRound_19
+    400056: wall_straight_14
+    400058: wall_straight_15
+    400060: wall_straight_17
+    400062: wall_straight_18
+    400064: wall_straight_21
+    400066: wall_windowRound_16
+    400068: wall_windowRound_20
+    2100000: wood
+    2100002: _defaultMat
+    2100004: stone
+    2100006: lightStone
+    2300000: block_default_13
+    2300002: block_default_14
+    2300004: block_default_15
+    2300006: block_default_21
+    2300008: block_default_26
+    2300010: block_default_6
+    2300012: wall_corner_10
+    2300014: wall_corner_12
+    2300016: wall_corner_7
+    2300018: wall_corner_9
+    2300020: wall_straight_11
+    2300022: wall_straight_24
+    2300024: wall_straight_25
+    2300026: wall_straight_8
+    2300028: door_round_11
+    2300030: wall_doorwayRound_1
+    2300032: wall_straight_10
+    2300034: wall_straight_2
+    2300036: wall_straight_3
+    2300038: wall_straight_8 1
+    2300040: wall_straight_9
+    2300042: wall_windowRound_5
+    2300044: wall_windowRound_6
+    2300046: door_round_13
+    2300048: wall_corner_12 1
+    2300050: wall_corner_22
+    2300052: wall_doorwayRound_19
+    2300054: wall_straight_14
+    2300056: wall_straight_15
+    2300058: wall_straight_17
+    2300060: wall_straight_18
+    2300062: wall_straight_21
+    2300064: wall_windowRound_16
+    2300066: wall_windowRound_20
+    3300000: block_default_13
+    3300002: block_default_14
+    3300004: block_default_15
+    3300006: block_default_21
+    3300008: block_default_26
+    3300010: block_default_6
+    3300012: wall_corner_10
+    3300014: wall_corner_12
+    3300016: wall_corner_7
+    3300018: wall_corner_9
+    3300020: wall_straight_11
+    3300022: wall_straight_24
+    3300024: wall_straight_25
+    3300026: wall_straight_8
+    3300028: door_round_11
+    3300030: wall_doorwayRound_1
+    3300032: wall_straight_10
+    3300034: wall_straight_2
+    3300036: wall_straight_3
+    3300038: wall_straight_8 1
+    3300040: wall_straight_9
+    3300042: wall_windowRound_5
+    3300044: wall_windowRound_6
+    3300046: door_round_13
+    3300048: wall_corner_12 1
+    3300050: wall_corner_22
+    3300052: wall_doorwayRound_19
+    3300054: wall_straight_14
+    3300056: wall_straight_15
+    3300058: wall_straight_17
+    3300060: wall_straight_18
+    3300062: wall_straight_21
+    3300064: wall_windowRound_16
+    3300066: wall_windowRound_20
+    4300000: block_default_6
+    4300002: wall_corner_7
+    4300004: wall_straight_8
+    4300006: wall_corner_9
+    4300008: wall_corner_10
+    4300010: wall_straight_11
+    4300012: wall_corner_12
+    4300014: block_default_13
+    4300016: block_default_14
+    4300018: block_default_15
+    4300020: block_default_21
+    4300022: wall_straight_24
+    4300024: wall_straight_25
+    4300026: block_default_26
+    4300028: wall_doorwayRound_1
+    4300030: wall_straight_2
+    4300032: wall_straight_3
+    4300034: wall_windowRound_5
+    4300036: wall_windowRound_6
+    4300038: wall_straight_8
+    4300040: wall_straight_9
+    4300042: wall_straight_10
+    4300044: door_round_11
+    4300046: wall_corner_12
+    4300048: door_round_13
+    4300050: wall_straight_14
+    4300052: wall_straight_15
+    4300054: wall_windowRound_16
+    4300056: wall_straight_17
+    4300058: wall_straight_18
+    4300060: wall_doorwayRound_19
+    4300062: wall_windowRound_20
+    4300064: wall_straight_21
+    4300066: wall_corner_22
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

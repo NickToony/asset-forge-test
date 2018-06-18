@@ -1,0 +1,15 @@
+# Made using Asset Forge (1.3)
+
+:models
+Castles/stairs_stone_railing[(0, 0, 0);(0.0, 90.0, 0.0);(1.0, 1.0, 1.0);stairs_stone_railing_22;wood+stone]
+
+:materials
+_defaultMat[RGBA(1.000, 1.000, 1.000, 1.000);stone]
+stone[RGBA(0.161, 0.159, 0.147, 1.000);wood]
+wood[RGBA(0.319, 0.319, 0.319, 1.000);stone]
+lightStone[RGBA(0.812, 0.808, 0.855, 1.000);sand]
+customMaterial4[RGBA(1.000, 1.000, 1.000, 1.000);brokenCobble]
+
+:textures
+
+:extra

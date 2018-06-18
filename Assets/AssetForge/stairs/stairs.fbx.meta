@@ -1,16 +1,17 @@
 fileFormatVersion: 2
-guid: 3b924deb567bd4a0fb36c44f6e63b279
+guid: a97966dd9dd0b47e0b5eb9c82130dc4a
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: block_default_27
-    100002: //RootNode
-    400000: block_default_27
-    400002: //RootNode
-    2100000: _defaultMat
-    2300000: block_default_27
-    3300000: block_default_27
-    4300000: block_default_27
+    100000: //RootNode
+    100002: stairs_stone_railing_22
+    400000: //RootNode
+    400002: stairs_stone_railing_22
+    2100000: wood
+    2100002: stone
+    2300000: stairs_stone_railing_22
+    3300000: stairs_stone_railing_22
+    4300000: stairs_stone_railing_22
   externalObjects: {}
   materials:
     importMaterials: 1
