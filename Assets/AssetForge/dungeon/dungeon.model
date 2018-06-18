@@ -1,0 +1,30 @@
+# Made using Asset Forge (1.3)
+
+:models
+Primitives/block_default[(-4.5, 0, -1);(0.0, 0.0, 0.0);(2.0, 1.0, 7.0);block_default_6;wood]
+Castles/wall_corner[(1, 1, 2);(0.0, 90.0, 0.0);(1.0, 1.5, 1.0);wall_corner_7;_defaultMat]
+Castles/wall_straight[(1, 1, -1);(0.0, 180.0, 0.0);(1.0, 1.5, 5.0);wall_straight_8;_defaultMat]
+Castles/wall_corner[(1, 1, -4);(0.0, 180.0, 0.0);(1.0, 1.5, 1.0);wall_corner_9;_defaultMat]
+Castles/wall_corner[(-4.9, 1, 2);(0.0, 0.0, 0.0);(1.0, 1.5, 1.0);wall_corner_10;_defaultMat]
+Castles/wall_straight[(-4.9, 1, -1);(0.0, 0.0, 0.0);(1.0, 1.5, 5.0);wall_straight_11;_defaultMat]
+Castles/wall_corner[(-4.9, 1, -4);(0.0, 270.0, 0.0);(1.0, 1.5, 1.0);wall_corner_12;_defaultMat]
+Primitives/block_default[(0.5, 0, -1);(0.0, 0.0, 0.0);(2.0, 1.0, 7.0);block_default_13;wood]
+Primitives/block_default[(-2, 0, 1.75);(0.0, 0.0, 0.0);(3.0, 1.0, 1.5);block_default_14;wood]
+Primitives/block_default[(-2, 0, -3.75);(0.0, 0.0, 0.0);(3.0, 1.0, 1.5);block_default_15;wood]
+Primitives/block_default[(-2, 0, -1);(0.0, 180.0, 0.0);(3.0, 0.2, 5.0);block_default_21;wood]
+Castles/stairs_stone_railing[(-0.9, 0, -2.5);(0.0, 90.0, 0.0);(1.0, 1.0, 1.0);stairs_stone_railing_22;wood+stone]
+Castles/stairs_stone_railing[(-3.1, 0, -2.5);(0.0, 90.0, 0.0);(1.0, 1.0, 1.0);stairs_stone_railing_23;wood+stone]
+Castles/wall_straight[(-1.8, 1, 3);(0.0, 270.0, 0.0);(1.0, 1.5, 5.0);wall_straight_24;_defaultMat]
+Castles/wall_straight[(-1.8, 1, -4);(0.0, 270.0, 0.0);(1.0, 1.5, 5.0);wall_straight_25;_defaultMat]
+Primitives/block_default[(-1.95, 2.5, -1);(0.0, 0.0, 0.0);(6.9, 0.1, 7.0);block_default_26;_defaultMat]
+
+:materials
+_defaultMat[RGBA(1.000, 1.000, 1.000, 1.000);stone]
+stone[RGBA(0.161, 0.159, 0.147, 1.000);wood]
+wood[RGBA(0.319, 0.319, 0.319, 1.000);stone]
+lightStone[RGBA(0.812, 0.808, 0.855, 1.000);sand]
+customMaterial4[RGBA(1.000, 1.000, 1.000, 1.000);brokenCobble]
+
+:textures
+
+:extra
