@@ -1,0 +1,13 @@
+# Made using Asset Forge (1.3)
+
+:models
+Castles/detail_chimneyBase[(0.75, 1, 1.49E-08);(0.0, 180.0, 180.0);(1.5, 1.0, 1.0);detail_chimneyBase_0;customMaterial1]
+Castles/detail_chimneyBase[(-0.75, 1, 1.49E-08);(0.0, 0.0, 180.0);(1.5, 1.0, 1.0);detail_chimneyBase_1;customMaterial1]
+
+:materials
+darkStone[RGBA(0.431, 0.431, 0.478, 1.000);]
+customMaterial1[RGBA(0.360, 0.360, 0.360, 1.000);metal]
+
+:textures
+
+:extra

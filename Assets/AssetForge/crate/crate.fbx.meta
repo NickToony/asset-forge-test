@@ -27,6 +27,8 @@ ModelImporter:
     400020: planks_floor_33
     2100000: _defaultMat
     2100002: wood
+    2100004: customMaterial3
+    2100006: customMaterial4
     2300000: block_default_27
     2300002: block_default_30
     2300004: planks_floor_23

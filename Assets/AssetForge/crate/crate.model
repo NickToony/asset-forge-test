@@ -2,18 +2,20 @@
 
 :models
 Castles/planks_floor[(0, 0, 1.49E-08);(0.0, 270.0, 0.0);(0.4, 1.0, 0.4);planks_floor_23;_defaultMat]
-Castles/planks_floor[(-0.2, 0.2, 1.49E-08);(0.0, 0.0, 90.0);(0.5, 1.0, 0.4);planks_floor_25;wood]
-Castles/planks_floor[(0.2, 0.2, 1.49E-08);(0.0, 0.0, 270.0);(0.5, 1.0, 0.4);planks_floor_26;wood]
-Castles/planks_floor[(0, 0.2, -0.2);(90.0, 180.0, 0.0);(0.4, 1.0, 0.5);planks_floor_27;wood]
-Castles/planks_floor[(0, 0.2, 0.2);(90.0, 0.0, 0.0);(0.4, 1.0, 0.5);planks_floor_28;wood]
-Primitives/block_default[(0, 0, 0);(0.0, 270.0, 0.0);(0.4, 0.4, 0.4);block_default_30;wood]
-Castles/planks_floor[(7.45E-09, 0.4, 1.49E-08);(0.0, 90.0, 0.0);(0.4, 1.0, 0.4);planks_floor_31;wood]
-Castles/planks_floor[(7.45E-09, 0, 1.49E-08);(0.0, 90.0, 180.0);(0.4, 1.0, 0.4);planks_floor_33;wood]
+Castles/planks_floor[(-0.2, 0.2, 1.49E-08);(0.0, 0.0, 90.0);(0.5, 1.0, 0.4);planks_floor_25;customMaterial3]
+Castles/planks_floor[(0.2, 0.2, 1.49E-08);(0.0, 0.0, 270.0);(0.5, 1.0, 0.4);planks_floor_26;customMaterial3]
+Castles/planks_floor[(0, 0.2, -0.2);(90.0, 180.0, 0.0);(0.4, 1.0, 0.5);planks_floor_27;customMaterial3]
+Castles/planks_floor[(0, 0.2, 0.2);(90.0, 0.0, 0.0);(0.4, 1.0, 0.5);planks_floor_28;customMaterial3]
+Primitives/block_default[(0, 0, 0);(0.0, 270.0, 0.0);(0.4, 0.4, 0.4);block_default_30;customMaterial4]
+Castles/planks_floor[(7.45E-09, 0.4, 1.49E-08);(0.0, 90.0, 0.0);(0.4, 1.0, 0.4);planks_floor_31;customMaterial3]
+Castles/planks_floor[(7.45E-09, 0, 1.49E-08);(0.0, 90.0, 180.0);(0.4, 1.0, 0.4);planks_floor_33;customMaterial3]
 
 :materials
 wood[RGBA(0.859, 0.720, 0.640, 1.000);bark]
 _defaultMat[RGBA(0.765, 0.741, 0.741, 1.000);planks]
 customMaterial1[RGBA(0.273, 0.226, 0.226, 1.000);planks]
+customMaterial3[RGBA(0.370, 0.348, 0.348, 1.000);wood]
+customMaterial4[RGBA(0.240, 0.198, 0.198, 1.000);]
 
 :textures
 
